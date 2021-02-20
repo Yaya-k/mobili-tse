@@ -67,9 +67,7 @@ Clone the repo
    ```sh
    identifiant admin: email:admin@dev.dev, password:admintelecom
    ```
-      ```sh
-      Vous ne pouvez pas créer d'autres profiles administrateur, vous pouvez juste créer des profiles utilisateurs pour les besoins de votre test 
-   ```
+Vous ne pouvez pas créer d'autres profiles administrateur, vous pouvez juste créer des profiles utilisateurs pour les besoins de votre test 
 <!-- CONTRIBUTING -->
 ## Contributing
 
